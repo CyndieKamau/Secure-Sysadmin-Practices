@@ -1,4 +1,4 @@
-# Checking Hidden Processes in Linux using Unhide Tool.
+# Checking Hidden Processes, Rootkits in Linux using Unhide Tool.
 
 Linux is a secure Operating System with little malware, but users can get compromised through Rootkit attacks.
 
